@@ -2,18 +2,17 @@
 PhD Candidate in Economics at Rice University | Applied Microeconomist  
 
 ## About Me  
-I specialize in **applied microeconomics** and **industrial organization**, using data-driven techniques to evaluate policies and predict consumer behavior. My expertise lies in structural modeling, econometrics, and data science.
+Ph.D. candidate in Economics and expected to graduated in May 2025. Specialized in **applied microeconomics** and **industrial organization**, with a strong focus on private sector applications of **data analytics** and **predictive modeling**. Passionate about leveraging **large datasets**, **econometrics** and **machine learning** tools to solve real-world problems and drive business insights. Dedicated to transitioning exclusively to private sector roles where I can apply my technical expertise and collaborative approach in industry settings. 
 
 ## 🔧 Skills
-- **Programming:** MATLAB, Python
+- **Programming:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ## 📚 Projects
-- [**"Effects of Plant-Based Milk Alternative Labeling Policies" (Job Market Paper)**](https://www.dropbox.com/scl/fi/n92h2vtfxt61w19i1pz7s/JMP_draft_Rose.pdf?rlkey=ixxe46iwsjppskao7uk04ritf&st=4p18oz7r&dl=0)
+- **"Effects of Plant-Based Milk Alternative Labeling Policies" (Job Market Paper)** [View Paper](https://www.dropbox.com/scl/fi/n92h2vtfxt61w19i1pz7s/JMP_draft_Rose.pdf?rlkey=ixxe46iwsjppskao7uk04ritf&st=4p18oz7r&dl=0)
+- **"How Does Limited Consideration Change Over Time? Estimating Demand in the Toothpaste Industry"**
 
 ## 📫 Connect with Me
-- [LinkedIn](https://linkedin.com/in/r-li) 
-- [Personal Website](https://sites.google.com/view/ruosi-rose-li)  
-- 📧 Email: ruosiroseli@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/r-li) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ruosiroseli@gmail.com)
 
  
 <!--
