@@ -2,7 +2,7 @@
 PhD Candidate in Economics at Rice University | Applied Microeconomist  
 
 ## About Me  
-Ph.D. candidate in Economics and expected to graduated in May 2025. Specialized in **applied microeconomics** and **industrial organization**, with a strong focus on private sector applications of **data analytics** and **predictive modeling**. Passionate about leveraging **large datasets**, **econometrics** and **machine learning** tools to solve real-world problems and drive business insights. Dedicated to transitioning exclusively to private sector roles where I can apply my technical expertise and collaborative approach in industry settings. 
+Ph.D. candidate in Economics. Specialized in **applied microeconomics** and **industrial organization**, with a strong focus on private sector applications of **data analytics** and **predictive modeling**. Passionate about leveraging **large datasets**, **econometrics** and **machine learning** tools to solve real-world problems and drive business insights. Dedicated to transitioning exclusively to private sector roles where I can apply my technical expertise and collaborative approach in industry settings. 
 
 ## 🔧 Skills
 - **Programming:** ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
